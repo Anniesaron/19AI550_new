@@ -44,9 +44,11 @@ public class Player_movement : MonoBehaviour
 ### Output:
 
 
+![Screenshot 2025-03-17 135917](https://github.com/user-attachments/assets/89913348-cdfc-409c-a81f-a6e1c1b6ac78)
 
 
 
+![Screenshot 2025-03-17 135932](https://github.com/user-attachments/assets/dfbee4f9-fdaf-459e-a24a-394bcd4cf057)
 
 
 
